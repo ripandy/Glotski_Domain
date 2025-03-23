@@ -1,0 +1,19 @@
+{
+  "name": "com.glotski.domain",
+  "displayName": "Glotski Domain",
+  "author": {
+    "name": "Ripandy Adha"
+  },
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Domain source for Glotski Game",
+  "keywords": [
+    "Glotski",
+    "Domain",
+    "UniTask"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10"
+  }
+}
